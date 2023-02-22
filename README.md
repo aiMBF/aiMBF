@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aïssatou BALDE
 - 👀 I’m interested in Big Data,Networks,Deep/Machine Learning, Bioinformatics
 - 🌱 I’m currently learning Computer Science and Networks at Thies Polytechnic School(Senegal))
-- 💞️ I’m looking for collaboration on Big Data,Networks,Deep/Machine Learning, Bioinformatics projects
+- 💞️ I’m looking for collaboration on Big Data,Deep/Machine Learning projects
 - 📫 How to reach me
 
 <!---
