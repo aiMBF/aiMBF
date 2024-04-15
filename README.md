@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aïssatou BALDE
-- 👀 I’m interested in Big Data,Data Science,Data Analytics
-- 🌱 I’m currently learning Computer Science and Networks at Thies Polytechnic School(Senegal))
-- 💞️ I’m looking for collaboration on Big Data,Deep/Machine Learning projects
+- 👀 I’m interested in Big Data, Data engineering
+- 🌱 I’m currently learning Big Data and Data Engineering at Paris-Saclay
+- 💞️ I’m looking for collaboration on Big Data projects
 
 
 <!---
