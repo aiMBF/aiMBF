@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aïssatou BALDE
-- 👀 I’m interested in Big Data, Data engineering
-- 🌱 I’m currently learning Big Data and Data Engineering at Paris-Saclay
-- 💞️ I’m looking for collaboration on Big Data projects
+- 👀 I’m interested in Big Data, Data engineering. Enthusiastic about embracing new challenges
+- 💞️Love learning new stuffs in Data, Cloud technologies
 
 
 <!---
